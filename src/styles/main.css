@@ -17,3 +17,46 @@
   width: 100vw;
   background-image: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.8) 50%, rgba(0,0,0,1) 100%);
 }
+
+.container{
+  display: flex;
+  height: 100vh;
+  position: relative;
+  z-index: 3;
+}
+
+.container__left{
+  width: 35%;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.score_box, .card_details{
+  background-color: #FFF;
+  padding: 1rem;
+}
+
+.frame{
+  border: 3px solid #000;
+  border-radius: 5px;
+}
+
+.card_details{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 6rem;
+  width: 100%;
+}
+
+#card-name{
+  font-size: 0.8rem;
+}
+
+#card-type{
+  font-size: 1rem;
+}
