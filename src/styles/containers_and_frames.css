@@ -8,9 +8,7 @@
   overflow: show;
 }
 
-/* game div with background image*/
 .framed {
-  /* border */
   border-style: solid;
   border-image-source: url("../assets/rpg/border-image.png");
   border-image-repeat: repeat;
@@ -18,22 +16,16 @@
   border-image-width: 18px;
   border-width: 15px;
   padding: 12px;
-
-  /* internal border */
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-
-  /* background */
   background: url("../assets/rpg/background-image.png") repeat repeat;
   background-clip: padding-box;
   background-origin: padding-box;
   background-position: center;
 }
 
-/* game div with golden background image*/
 .framed-golden {
-  /* border */
   border-style: solid;
   border-image-source: url("../assets/rpg/border-image-golden.png");
   border-image-repeat: repeat;
@@ -41,22 +33,16 @@
   border-image-width: 18px;
   border-width: 15px;
   padding: 12px;
-
-  /* internal border */
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-
-  /* background */
   background: url("../assets/rpg/background-image-golden.png") repeat repeat;
   background-clip: padding-box;
   background-origin: padding-box;
   background-position: center;
 }
 
-/* game div with golden2 background image*/
 .framed-golden-2 {
-  /* border */
   border-style: solid;
   border-image-source: url("../assets/rpg/border-image-golden2.png");
   border-image-repeat: repeat;
@@ -64,13 +50,9 @@
   border-image-width: 18px;
   border-width: 15px;
   padding: 12px;
-
-  /* internal border */
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-
-  /* background */
   background: url("../assets/rpg/background-image-golden2.png") repeat repeat;
   background-clip: padding-box;
   background-origin: padding-box;
