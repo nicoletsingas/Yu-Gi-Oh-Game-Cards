@@ -12,7 +12,7 @@
 Projeto desenvolvido para o curso de Desenvolvimento de Jogos com JavaScript da DIO em parceria com Ifood e Potencia Tech. Foi desenvolvido um jogo de cratas do Yu-Gi-OH, onde o usuario joga contra o computador, são três tipos de carta e cada uma tem um poder equivalente ao pedra, papel e tesoura. <strong>A carta do Blue Eyes White Dragon tem o tipo de papel, a carta do Dark Magician é pedra e do Exodia, tesoura.</strong> Divirta-se!
 
 ## 2. Deploy📝
-### 📎[Acesse aqui]()
+### 📎[Acesse aqui](https://nicoletsingas.github.io/Yu-Gi-Oh-Game-Cards/)
 ![preview](src/assets/icons/preview.png)
 
 ## 3. Tecnologias Utilizadas✅ 
